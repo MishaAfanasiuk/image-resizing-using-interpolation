@@ -1,1 +1,1 @@
-# image-resizing-using-interpolation
+# .bmp files resizing using interpolation
